@@ -9,6 +9,7 @@ import styled from 'styled-components';
 import { Chart, PayHistory, RunPayroll } from './MainPage';
 import { payrollActiveTabSelector } from 'redux/selectors';
 import { setPayrollActiveTab } from 'redux/personSlice';
+import { AdditionalEarnings } from './AdditionalEarnings';
 
 export const Payroll = () => {
   const { t } = useTranslation();
@@ -46,7 +47,9 @@ export const Payroll = () => {
           <TabPanel>
             <PayHistory />
           </TabPanel>
-          <TabPanel></TabPanel>
+          <TabPanel>
+            <AdditionalEarnings/>
+          </TabPanel>
           <TabPanel></TabPanel>
         </Tabs>
       </RightBlock>

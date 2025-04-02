@@ -242,6 +242,7 @@ export const PayHistory = () => {
         columns={columns}
         initialState={initialState}
         loading={isLoading}
+        discardQueryStringSaveRestrict
         disableQuickFilter
         disableColumnFilter
         disableColumnSelector

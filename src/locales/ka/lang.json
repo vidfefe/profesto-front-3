@@ -207,6 +207,20 @@
                 "status": "ყველა სტატუსი"
             }
         },
+        "additional_earnings_block":{
+            "title": "დამატებითი დარიცხვები",
+            "effective_date": "შედის ძალაში",
+            "earning": "დარიცხვა",
+            "end_date": "დასრულება",
+            "net_amount": "თანხა Net",
+            "note": "კომენტარი",
+            "no_earning": "დამატებითი დარიცხვა არ არის დამატებული",
+            "select": {
+                "earning": "ყველა დარიცხვა",
+                "type": "ყველა ტიპი",
+                "status": "ყველა სტატუსი"
+            }
+        },
         "run_block": {
             "run_regular_payroll": "რეგულარული ხელფასის გაშვება",
             "run_regular_payroll_action": "რეგულარული ხელფასის გაშვება",
@@ -1811,6 +1825,12 @@
             "draft": "დრაფტი",
             "approved": "დადასტურებული",
             "cancelled": "გაუქმებული"
+        },
+        "additional_earning_status": {
+            "planned": "დაგეგმილი",
+            "current": "მიმდინარე",
+            "cancelled": "გაუქმებული",
+            "finished": "დასრულებული"
         },
         "payment_document_type": {
             "regular_payroll": "რეგულარული ხელფასი",

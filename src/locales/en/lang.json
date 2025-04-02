@@ -207,6 +207,20 @@
                 "status": "All Statuses"
             }
         },
+        "additional_earnings_block":{
+            "title": "Additional Earnings",
+            "effective_date": "Effective Date",
+            "earning": "Earning",
+            "end_date": "End Date",
+            "net_amount": "Net Amount",
+            "note": "Note",
+            "no_earning": "No Additional Earning has been added.",
+            "select": {
+                "earning": "All Earnings",
+                "type": "All Types",
+                "status": "All Statuses"
+            }
+        },
         "run_block": {
             "run_regular_payroll": "Run Regular Payroll",
             "run_regular_payroll_action": "RUN REGULAR PAYROLL",
@@ -1810,6 +1824,12 @@
             "draft": "Draft",
             "approved": "Approved",
             "cancelled": "Cancelled"
+        },
+        "additional_earning_status": {
+            "planned": "Planned",
+            "current": "Current",
+            "cancelled": "Cancelled",
+            "finished": "Finished"
         },
         "payment_document_type": {
             "regular_payroll": "Regular Payroll",
