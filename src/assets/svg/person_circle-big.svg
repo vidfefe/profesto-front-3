@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_26879" data-name="Group 26879" transform="translate(-536.493 -398.908)">
+    <g id="Group_26870" data-name="Group 26870" transform="translate(-1006.57 -842.578)">
+      <circle id="Ellipse_1536" data-name="Ellipse 1536" cx="15" cy="15" r="15" transform="translate(1543.063 1241.486)" fill="#efefef"/>
+    </g>
+    <g id="vuesax_bold_user" data-name="vuesax/bold/user" transform="translate(437.493 219.908)">
+      <g id="user" transform="translate(108 188)">
+        <path id="Vector" d="M0,0H12V12H0Z" fill="none" opacity="0"/>
+        <path id="Vector-2" data-name="Vector" d="M5.013,2.506A2.506,2.506,0,1,1,2.506,0,2.506,2.506,0,0,1,5.013,2.506Z" transform="translate(3.494 1.003)" fill="#424e55"/>
+        <path id="Vector-3" data-name="Vector" d="M4.541,0C2.038,0,0,1.684,0,3.759a.248.248,0,0,0,.25.251H8.833a.248.248,0,0,0,.25-.251C9.083,1.684,7.044,0,4.541,0Z" transform="translate(1.459 7.238)" fill="#424e55"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.182" height="24.182" viewBox="0 0 24.182 24.182">
+  <g id="Group_28045" data-name="Group 28045" transform="translate(-1149.5 -462.921)">
+    <circle id="Ellipse_1726" data-name="Ellipse 1726" cx="12.091" cy="12.091" r="12.091" transform="translate(1149.5 462.921)" fill="#396"/>
+    <g id="vuesax_bold_location" data-name="vuesax/bold/location" transform="translate(725.5 278.921)">
+      <path id="Vector" d="M11.667,4.467A5.75,5.75,0,0,0,5.92,0H5.913A5.749,5.749,0,0,0,.167,4.46C-.613,7.9,1.493,10.813,3.4,12.647a3.615,3.615,0,0,0,5.033,0C10.34,10.813,12.447,7.907,11.667,4.467ZM5.92,7.807a2.1,2.1,0,1,1,2.1-2.1A2.1,2.1,0,0,1,5.92,7.807Z" transform="translate(430.08 189.167)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H16V16H0Z" transform="translate(428 188)" fill="none" opacity="0"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H16V16H0Z" transform="translate(444 204) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

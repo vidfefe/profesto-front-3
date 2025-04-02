@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.182" height="24.182" viewBox="0 0 24.182 24.182">
+  <g id="Group_28043" data-name="Group 28043" transform="translate(-1149.5 -342.421)">
+    <circle id="Ellipse_1725" data-name="Ellipse 1725" cx="12.091" cy="12.091" r="12.091" transform="translate(1149.5 342.421)" fill="#396"/>
+    <g id="vuesax_bold_document-upload" data-name="vuesax/bold/document-upload" transform="translate(789.5 158.421)">
+      <g id="document-upload" transform="translate(364 188)">
+        <path id="Vector" d="M12,5.461H10.075A2.871,2.871,0,0,1,7.208,2.594V.667A.669.669,0,0,0,6.541,0H3.714A3.519,3.519,0,0,0,0,3.714V9.621a3.519,3.519,0,0,0,3.714,3.714H8.955a3.519,3.519,0,0,0,3.714-3.714V6.127A.669.669,0,0,0,12,5.461ZM6.021,7.688a.5.5,0,0,1-.707,0l-.48-.48V10a.5.5,0,0,1-1,0V7.208l-.48.48a.5.5,0,0,1-.707-.707L3.981,5.647a.714.714,0,0,1,.147-.1l.047-.02A.708.708,0,0,1,4.3,5.5h.053a.458.458,0,0,1,.16.033h.013a.442.442,0,0,1,.147.1c.007.007.013.007.013.013L6.021,6.981A.5.5,0,0,1,6.021,7.688Z" transform="translate(1.666 1.333)" fill="#fff"/>
+        <path id="Vector-2" data-name="Vector" d="M1.832,4.527c.633.007,1.512.007,2.265.007a.42.42,0,0,0,.313-.713C3.451,2.855,1.732,1.116.746.13A.435.435,0,0,0,0,.423V2.748A1.816,1.816,0,0,0,1.832,4.527Z" transform="translate(9.79 1.343)" fill="#fff"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H16V16H0Z" transform="translate(16 16) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

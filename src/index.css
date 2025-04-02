@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'Aspira Regular';
+  src: url('./assets/fonts/Aspira-Regular.woff2') format("woff2");
+  ascent-override: 90%;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aspira Demi';
+  src: url('./assets/fonts/Aspira-Demi.woff2') format("woff2");
+  ascent-override: 80%;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aspira Wide Demi';
+  src: url('./assets/fonts/Aspira-Wide-Demi.woff2') format("woff2");
+  ascent-override: 80%;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Brooke Smith Regular';
+  src: url('./assets/fonts/Brooke-Smith-Script.woff2') format('woff2');
+  ascent-override: 90%;
+  descent-override: 45%;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FiraGO Regular';
+  src: url('./assets/fonts/firaGo/FiraGO-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'FiraGO Bold';
+  src: url('./assets/fonts/firaGo/FiraGO-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'FiraGO Unicode Bold';
+  src: url('./assets/fonts/firaGo/FiraGO-Bold-Unicode.otf') format("opentype");;
+}
+
+@font-face {
+  font-family: 'FiraGO Medium';
+  src: url('./assets/fonts/firaGo/FiraGO-Medium.ttf');
+}
+
+#root {
+  height: 100%;
+}
+
+/* @media only screen and (max-width: 1280px) {
+  #root {
+    width: 1280px;
+  }
+} */

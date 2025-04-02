@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <g id="Group_26240" data-name="Group 26240" transform="translate(-784 -198)">
+    <g id="_002-exclamation" data-name="002-exclamation" transform="translate(784 198)">
+      <g id="Group_23322" data-name="Group 23322" transform="translate(0 0)">
+        <g id="Group_23321" data-name="Group 23321">
+          <path id="Path_3914" data-name="Path 3914" d="M9.243.757a6,6,0,1,0,0,8.485A6,6,0,0,0,9.243.757ZM8.536,8.535a5,5,0,1,1,0-7.071A5,5,0,0,1,8.536,8.535Z" transform="translate(1 1)" fill="#77b448"/>
+        </g>
+      </g>
+    </g>
+    <g id="_002-tick" data-name="002-tick" transform="translate(787.471 202.143)">
+      <g id="Group_23302" data-name="Group 23302">
+        <path id="Path_3906" data-name="Path 3906" d="M4.983,68.072a.253.253,0,0,0-.358,0L1.6,71.1.431,69.937a.253.253,0,0,0-.358.358l1.343,1.343a.253.253,0,0,0,.358,0l3.209-3.209A.253.253,0,0,0,4.983,68.072Z" transform="translate(0 -67.997)" fill="#77b448" stroke="#77b448" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

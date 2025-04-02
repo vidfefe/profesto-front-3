@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.942" height="15.942" viewBox="0 0 15.942 15.942">
+  <g id="Group_23346" data-name="Group 23346" transform="translate(-759 -142)">
+    <g id="_002-exclamation" data-name="002-exclamation" transform="translate(760 142.531)">
+      <g id="Group_23322" data-name="Group 23322" transform="translate(-1 -0.532)">
+        <g id="Group_23321" data-name="Group 23321">
+          <path id="Path_3914" data-name="Path 3914" d="M12.608,1.335a7.971,7.971,0,1,0,0,11.273A7.971,7.971,0,0,0,12.608,1.335Zm-.939,10.333a6.642,6.642,0,1,1,0-9.394A6.642,6.642,0,0,1,11.668,11.668Z" transform="translate(1 1)" fill="#77b448"/>
+        </g>
+      </g>
+    </g>
+    <g id="_002-tick" data-name="002-tick" transform="translate(763.372 79.471)">
+      <g id="Group_23302" data-name="Group 23302" transform="translate(0 67.997)">
+        <path id="Path_3906" data-name="Path 3906" d="M7.245,68.105a.368.368,0,0,0-.52,0L2.32,72.51.627,70.817a.368.368,0,0,0-.52.52L2.06,73.29a.368.368,0,0,0,.52,0l4.665-4.665A.368.368,0,0,0,7.245,68.105Z" transform="translate(0 -67.997)" fill="#77b448" stroke="#77b448" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

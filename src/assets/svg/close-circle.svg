@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_27724" data-name="Group 27724" transform="translate(-3172 78)">
+    <path id="Vector" d="M0,0H20V20H0Z" transform="translate(3192 -58) rotate(180)" fill="none"/>
+    <path id="Subtraction_4" data-name="Subtraction 4" d="M9,18a9,9,0,1,1,9-9A9.01,9.01,0,0,1,9,18Zm.121-7.658h0l2.649,2.649a.863.863,0,0,0,1.22,0,.865.865,0,0,0,0-1.221l-2.649-2.65,2.649-2.649a.863.863,0,0,0-1.22-1.221L9.121,7.9l-2.65-2.65a.863.863,0,1,0-1.22,1.221L7.9,9.121l-2.65,2.65a.864.864,0,0,0,.61,1.474.832.832,0,0,0,.61-.253L9.12,10.343Z" transform="translate(3173 -77)" fill="#f4906a"/>
+  </g>
+</svg>

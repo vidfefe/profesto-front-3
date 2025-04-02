@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.001" height="23.001" viewBox="0 0 23.001 23.001">
+  <g id="Group_28221" data-name="Group 28221" transform="translate(-648.999 -113)">
+    <path id="Subtraction_5" data-name="Subtraction 5" d="M16044.5,13527a11.5,11.5,0,1,1,11.5-11.5A11.428,11.428,0,0,1,16044.5,13527Z" transform="translate(-15384 -13391)" fill="#b5b5b5"/>
+    <g id="vuesax_linear_stickynote" data-name="vuesax/linear/stickynote" transform="translate(352.889 -199)">
+      <g id="stickynote" transform="translate(300 316)">
+        <path id="Vector" d="M0,0V1.924" transform="translate(5.129 1.282)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0V1.924" transform="translate(10.259 1.282)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H5.129" transform="translate(4.488 7.053)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H3.206" transform="translate(4.488 9.618)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-5" data-name="Vector" d="M7.694,11.862H3.847C.641,11.862,0,10.541,0,7.9V3.943C0,.93,1.071.122,3.206,0H8.335c2.135.115,3.206.93,3.206,3.943V8.015" transform="translate(1.924 2.244)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-6" data-name="Vector" d="M3.847,0,0,3.847V1.924A1.7,1.7,0,0,1,1.924,0Z" transform="translate(9.618 10.259)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-7" data-name="Vector" d="M0,0H15.388V15.388H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

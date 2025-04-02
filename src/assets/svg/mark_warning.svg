@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.894" height="16.248" viewBox="0 0 18.894 16.248">
+  <g id="Group_23341" data-name="Group 23341" transform="translate(-712.553 -159.234)">
+    <g id="danger" transform="translate(712.553 123.377)">
+      <g id="Group_23328" data-name="Group 23328" transform="translate(0 35.857)">
+        <g id="Group_23327" data-name="Group 23327" transform="translate(0 0)">
+          <path id="Path_3918" data-name="Path 3918" d="M18.651,49.531,10.9,36.678a1.7,1.7,0,0,0-2.907,0L.243,49.531A1.7,1.7,0,0,0,1.7,52.1H17.2a1.7,1.7,0,0,0,1.454-2.574ZM17.6,50.637a.468.468,0,0,1-.407.238H1.7a.467.467,0,0,1-.4-.709l7.75-12.853a.467.467,0,0,1,.8,0L17.6,50.166A.468.468,0,0,1,17.6,50.637Z" transform="translate(0 -35.857)" fill="#f4906a"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_23340" data-name="Group 23340" transform="translate(721.335 164.025)">
+      <path id="Path_3915" data-name="Path 3915" d="M234.327,84.338c-.367,0-.664.214-.664.477v4.774c0,.264.3.477.664.477s.664-.214.664-.477V84.815C234.992,84.552,234.694,84.338,234.327,84.338Z" transform="translate(-233.663 -84.338)" fill="#f4906a"/>
+      <path id="Path_3916" data-name="Path 3916" d="M234.327,383a.664.664,0,1,0,.664.664A.665.665,0,0,0,234.327,383Z" transform="translate(-233.663 -375.947)" fill="#f4906a"/>
+    </g>
+  </g>
+</svg>

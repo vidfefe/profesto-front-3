@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group_28224" data-name="Group 28224" transform="translate(-1659 -3536)">
+    <path id="Path_8716" data-name="Path 8716" d="M11,0A11,11,0,1,1,0,11,11,11,0,0,1,11,0Z" transform="translate(1659 3536)" fill="#b5b5b5"/>
+    <g id="vuesax_outline_refresh-2" data-name="vuesax/outline/refresh-2" transform="translate(1300 3225)">
+      <g id="refresh-2" transform="translate(364 316)">
+        <path id="Vector" d="M1.11,14.44v2.424" transform="translate(0.398 -6.47)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+        <path id="Vector-2" data-name="Vector" d="M9.7,4.848A4.85,4.85,0,0,1,4.848,9.7C2.172,9.7.538,7,.538,7H2.73M0,4.848A4.838,4.838,0,0,1,4.848,0,5.964,5.964,0,0,1,9.7,2.7m0,0V.272M9.7,2.7H7.544" transform="translate(0.97 0.97)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H11.636V11.636H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

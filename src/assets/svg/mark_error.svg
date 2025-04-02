@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.942" height="15.942" viewBox="0 0 15.942 15.942">
+  <g id="_002-exclamation" data-name="002-exclamation" transform="translate(1 0.532)">
+    <g id="Group_23322" data-name="Group 23322" transform="translate(-1 -0.532)">
+      <g id="Group_23321" data-name="Group 23321">
+        <path id="Path_3914" data-name="Path 3914" d="M12.608,1.335a7.971,7.971,0,1,0,0,11.273A7.971,7.971,0,0,0,12.608,1.335Zm-.939,10.333a6.642,6.642,0,1,1,0-9.394A6.642,6.642,0,0,1,11.668,11.668Z" transform="translate(1 1)" fill="#f46a6a"/>
+        <g id="Group_23323" data-name="Group 23323" transform="translate(7.307 3.368)">
+          <path id="Path_3915" data-name="Path 3915" d="M234.327,84.338c-.367,0-.664.214-.664.477v4.774c0,.264.3.477.664.477s.664-.214.664-.477V84.815C234.992,84.552,234.694,84.338,234.327,84.338Z" transform="translate(-233.663 -84.338)" fill="#f46a6a"/>
+          <path id="Path_3916" data-name="Path 3916" d="M234.327,383a.664.664,0,1,0,.664.664A.665.665,0,0,0,234.327,383Z" transform="translate(-233.663 -375.947)" fill="#f46a6a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

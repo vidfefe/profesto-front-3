@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.901" height="14.104" viewBox="0 0 13.901 14.104">
+  <g id="calendar" transform="translate(-0.208)">
+    <path id="Path_4073" data-name="Path 4073" d="M20.665,2.976A.976.976,0,0,0,21.643,2V.978a.978.978,0,1,0-1.956,0V2A.976.976,0,0,0,20.665,2.976Z" transform="translate(-10.046)" fill="#396"/>
+    <path id="Path_4074" data-name="Path 4074" d="M14.094,3.468H12.125v.5a1.489,1.489,0,1,1-2.978,0v-.5H5.174v.5a1.489,1.489,0,1,1-2.979,0v-.5L.208,3.443V15.879H13.117l.992,0Zm-.978,11.42H1.2V6.944H13.117v7.944Z" transform="translate(0 -1.776)" fill="#396"/>
+    <path id="Path_4075" data-name="Path 4075" d="M6.313,2.976A.976.976,0,0,0,7.292,2V.978a.978.978,0,1,0-1.956,0V2A.975.975,0,0,0,6.313,2.976Z" transform="translate(-2.645)" fill="#396"/>
+    <rect id="Rectangle_12844" data-name="Rectangle 12844" width="1.565" height="1.381" transform="translate(5.177 6.234)" fill="#396"/>
+    <rect id="Rectangle_12845" data-name="Rectangle 12845" width="1.566" height="1.381" transform="translate(7.707 6.234)" fill="#396"/>
+    <rect id="Rectangle_12846" data-name="Rectangle 12846" width="1.565" height="1.381" transform="translate(10.053 6.234)" fill="#396"/>
+    <rect id="Rectangle_12847" data-name="Rectangle 12847" width="1.565" height="1.38" transform="translate(5.177 8.528)" fill="#396"/>
+    <rect id="Rectangle_12848" data-name="Rectangle 12848" width="1.566" height="1.38" transform="translate(7.707 8.528)" fill="#396"/>
+    <rect id="Rectangle_12849" data-name="Rectangle 12849" width="1.565" height="1.38" transform="translate(10.053 8.528)" fill="#396"/>
+    <rect id="Rectangle_12850" data-name="Rectangle 12850" width="1.565" height="1.38" transform="translate(5.177 10.867)" fill="#396"/>
+    <rect id="Rectangle_12851" data-name="Rectangle 12851" width="1.564" height="1.38" transform="translate(2.691 8.528)" fill="#396"/>
+    <rect id="Rectangle_12852" data-name="Rectangle 12852" width="1.564" height="1.38" transform="translate(2.691 10.867)" fill="#396"/>
+    <rect id="Rectangle_12853" data-name="Rectangle 12853" width="1.566" height="1.38" transform="translate(7.707 10.867)" fill="#396"/>
+    <rect id="Rectangle_12854" data-name="Rectangle 12854" width="1.565" height="1.38" transform="translate(10.053 10.867)" fill="#396"/>
+  </g>
+</svg>
